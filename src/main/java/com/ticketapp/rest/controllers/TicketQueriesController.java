@@ -32,9 +32,9 @@ public class TicketQueriesController {
 		return tickets;
 	}
 
-	@RequestMapping(method = RequestMethod.GET, value = "{id}")
+	@RequestMapping(method = RequestMethod.GET, value = "{code}")
 	@ResponseBody
-	public TicketRest getById(@PathVariable int code) {
+	public TicketRest getById(@PathVariable Integer code) {
 		TicketDetails transfer = ticketService.getByCode(code);
 		return TicketRest.fromTicketDetails(transfer);
 	}
