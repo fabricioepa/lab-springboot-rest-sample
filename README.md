@@ -12,4 +12,4 @@ CQRS allows you to separate the load from reads and writes allowing you to scale
 It means you can create lightweight data structures to read thousands of data and also have complex object structures
 to read detailed information for the same entity in the domain.
 
-Feel free to bring up your ideias  ;)
+Feel free to bring up your ideas  ;)
