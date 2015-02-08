@@ -14,4 +14,4 @@ to read detailed information for the same entity in the domain.
 
 Feel free to bring up your ideas  ;)
 
-See more at my [fabricioepa.wordpress.com](fabricioepa.wordpress.com)
+See more at my [fabricioepa.wordpress.com](http://fabricioepa.wordpress.com)
